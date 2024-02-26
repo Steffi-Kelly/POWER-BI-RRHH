@@ -1,11 +1,9 @@
 # <h1 align="center">**`Reporte POWER BI`**</h1>
 
-![credit](DASHRRHH.pgn)
+![credit](DASHRRHH.png)
 
 ## 1- **Objetivo**
-Generear informacion para poder tomar medidas y disminuir la cantidad de victimas fatales.
+- El presente dashboard proporciona una visión general valiosa del número de empleados activos y no activos en diferentes territorios de América.
+- Los datos del dashboard se pueden utilizar para tomar decisiones estratégicas sobre la gestión de recursos humanos, como la asignación de recursos a diferentes territorios o la planificación de futuras contrataciones.
 
-## 2- **Comprensión del negocio**
-### **Observaciones y conclusiones:**
 
-Se realizará el analisis sobre una base de datos tomada para los accidentes viale para la ciudad de Buenos Aires desde el 2016 hasta el 2021 ya que es de suma importancia reducir las tasas de mortalidad relacionadas con sinietros viales a través de la prevención de los mismos.

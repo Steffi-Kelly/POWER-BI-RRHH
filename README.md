@@ -1,6 +1,6 @@
 # <h1 align="center">**`Reporte POWER BI`**</h1>
 
-![credit](imagen.jpg)
+![credit](DASHRRHH.pgn)
 
 ## 1- **Objetivo**
 Generear informacion para poder tomar medidas y disminuir la cantidad de victimas fatales.
